@@ -8,8 +8,9 @@
 #
 # Michael Lucarelli is the sole owner of Fault Wipe Computing.
 #
-# Contact Information:  lucarelli.tech.wiz@gmail.com
-#                       fault.wipe.computing@gmail.com
+# Contact Information:  
+# lucarelli.tech.wiz@gmail.com
+# fault.wipe.computing@gmail.com
 #
 #
 #
