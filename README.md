@@ -4,7 +4,7 @@ README.md
 #
 index is currently a useless repository.    
 this will be the furture home for the directory index.    
-faultwipecomputing repository will be used as an online catalog of publicly accessible content associated with "Fault Wipe Computing"   
+this repository will be used as an online catalog of publicly accessible content.  
 #
 Michael Lucarelli is the sole owner of Fault Wipe Computing.
 #
