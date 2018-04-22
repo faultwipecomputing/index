@@ -1,6 +1,6 @@
 # https://github.com/faultwipecomputing/index/
-# index.faultwipe
-# README.md
+index.faultwipe
+README.md
 #
 index is currently a useless repository.
 this will be the furture home for the directory index.
